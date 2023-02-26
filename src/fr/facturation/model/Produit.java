@@ -10,7 +10,7 @@ public class Produit {
 	
 	// CONSTRUCTEURS
 	
-	public Produit(String nomProduit, float puProduit) {
+	public Produit(String nomProduit, float puProduit, Categorie categorie) {
 		super();
 		this.nomProduit = nomProduit;
 		this.puProduit = puProduit;

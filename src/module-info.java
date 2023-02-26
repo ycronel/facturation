@@ -5,5 +5,5 @@
  * @author caro
  *
  */
-module Facturation {
+module fact {
 }
